@@ -1,5 +1,9 @@
 package PractTasks5;
 
+/* Напишите программу, которая бы определяла, является ли введённая буква
+*  (символ) гласной (постарайтесь сделать данное задание всеми возможными и
+*  невозможными способами; не обращайте внимание на запреты требования).*/
+
 public class VowelLetter {
     public static void main(String[] args) {
         System.out.println(CheckLetter.isVowel('A'));
